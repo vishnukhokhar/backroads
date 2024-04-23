@@ -1,0 +1,25 @@
+.last {
+    background-color: hwb(209 6% 74%);
+    color: white;
+
+    padding: 6rem;
+    width: 100%;
+}
+
+.foot-menu {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+footer ul li {
+    list-style: none;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+
+.end {
+    margin-left: 26%;
+    font-size: 1.3rem;
+    /* color: red; */
+}
